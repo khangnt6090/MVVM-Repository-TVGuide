@@ -97,7 +97,3 @@ Project được cấu hình với AGP 8.13.2, Gradle 8.13, Kotlin 2.4.10, KSP 2
 ## License
 
 Source code demo này được phát hành theo MIT License. Tên sách, nội dung sách và thương hiệu TVmaze thuộc chủ sở hữu tương ứng; ứng dụng chỉ dùng TVmaze API làm nguồn dữ liệu công khai cho mục đích học tập.
-
-## Thiết lập Wrapper và GitHub
-
-Gói source không kèm `gradle-wrapper.jar`. Hướng dẫn tạo Gradle Wrapper 8.13, chạy build trên Windows và công khai repository riêng nằm trong [`docs/SETUP_AND_GITHUB.md`](docs/SETUP_AND_GITHUB.md). Sau khi publish thành công, URL dự kiến là `https://github.com/khangnt6090/MVVM-Repository-TVGuide`.
